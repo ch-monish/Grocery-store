@@ -1,0 +1,70 @@
+.cartpagebg{
+    background-color: rgb(222, 215, 39);
+    height: 100vh;
+}
+.wrapper1{
+    background-color: rgb(184, 19, 19);
+    padding: 40px;
+    margin-top: 100px;
+   
+    color:chartreuse;
+left:0px}
+
+.wholetr{
+    animation: a1 5s 1 linear;
+}
+
+.wholetr2{
+    animation: a2 5s 1 linear;
+}
+
+
+
+.wrapper2{
+    background-color: rgb(255, 255, 255);
+    margin-top: 200px;
+    color:rgb(0, 0, 0)
+   
+}
+@keyframes a1{
+from{
+    transform: translate(1200px, 0px);
+
+}
+to{
+    transform: translate(0px, 0px);
+}
+}
+@keyframes a2{
+from{
+    transform: translate(0px, 0px);
+
+}
+to{
+    transform: translate(-1000px, 0px);
+}
+}
+.rotate {
+    width: 100px;
+    animation: rotation 1s 5 linear;
+  }
+  @keyframes rotation {
+    from {
+      transform: rotate(360deg);
+    }
+    to {
+      transform: rotate(0deg);
+    }
+  }
+.rotate2 {
+    width: 100px;
+    animation: rotation2 1s 5 linear;
+  }
+  @keyframes rotation2 {
+    from {
+      transform: rotate(360deg);
+    }
+    to {
+      transform: rotate(0deg);
+    }
+  }

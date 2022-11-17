@@ -1,13 +1,24 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import '../node_modules/bootstrap/dist/css/bootstrap.css'
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-
+import { Provider } from 'react-redux';
+// import import('redux').{ Store } from 'redux'; '../src/redux/store'
+import store from "../src/redux/store"
+import axios from 'axios';
 const root = ReactDOM.createRoot(document.getElementById('root'));
+axios.interceptors.request.use((request)=>{
+  request.headers.token='xxx-yyyy-zzzzz'
+  return request
+})
 root.render(
   <React.StrictMode>
+  <Provider store={store}>
+    
     <App />
+  </Provider>
   </React.StrictMode>
 );
 

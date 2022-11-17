@@ -1,0 +1,20 @@
+import React from 'react'
+import NavBar from '../../components/NavBar'
+
+function ContactPage() {
+    return (
+        <div>
+            <NavBar></NavBar>
+            <h1>Contact page</h1>
+            <div className='container'>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, veritatis assumenda. Voluptate temporibus, nisi molestias harum vero unde officiis, in ex ipsa sunt eligendi, veniam velit tenetur iure nam cum hic maiores. Mollitia accusamus provident expedita, praesentium sapiente esse pariatur aut cum maiores iusto, labore doloremque cupiditate ad ab eos sunt fuga tempora eligendi quo. Hic voluptates temporibus alias earum quas, nesciunt veritatis pariatur voluptatum officiis facere dolorum perferendis? Dolorum laudantium nam veniam quam soluta, ad eos quas a error id ab neque odio sit sed ipsum dolore asperiores suscipit odit ratione optio cupiditate alias culpa quasi consequuntur! Dolor sequi quibusdam recusandae voluptatum ipsum fugiat eius voluptates iusto nulla maiores optio, ad non, omnis, nihil modi fuga enim consequatur sunt vitae. Voluptates eaque quam placeat nesciunt suscipit temporibus aliquam animi praesentium omnis atque incidunt, doloribus fuga enim quae ipsam fugit nostrum ipsum illum ut earum! Dolorem, consequatur accusamus libero repellat id dignissimos magnam, quia ex nemo repellendus omnis quisquam. Ex recusandae laudantium sint perspiciatis pariatur repellat assumenda sit provident eum. Ea dignissimos laboriosam dolores similique temporibus aut sint neque. Magni itaque repudiandae quisquam maxime ullam ab quasi earum non nemo consequatur, saepe ut quia inventore atque ea placeat porro tempora nulla enim debitis sit, corrupti labore consequuntur! Velit, facilis doloremque voluptatum ad et incidunt sapiente obcaecati perspiciatis voluptates, tempore ex, sunt ab necessitatibus iste distinctio quos deserunt sit qui repudiandae commodi magnam aliquid maiores ea expedita! Beatae, minima reprehenderit adipisci facilis inventore autem omnis, ex distinctio, placeat quo repellendus odio illo quos. Accusantium eligendi maiores a in alias officiis recusandae atque magni cupiditate architecto. Recusandae exercitationem voluptatem amet saepe quia iure officiis ab enim, qui totam perferendis omnis odio neque accusantium et quidem corporis vel incidunt repudiandae fugiat quos soluta a rerum illum? Error porro voluptate, pariatur inventore vel impedit autem quis tempore natus neque iste nostrum, id quasi exercitationem. Blanditiis nesciunt cum repellendus sint aspernatur impedit est necessitatibus quibusdam quam labore aut id maxime cumque aperiam suscipit et voluptates reprehenderit optio tempora deserunt officiis ratione, consectetur nam? Repellendus esse reprehenderit, aliquid sequi asperiores et repellat corporis quasi, doloremque amet aliquam omnis distinctio tempora assumenda dolore iusto suscipit provident molestias ducimus harum! Voluptatibus cumque architecto reiciendis optio, modi blanditiis, quia dolorem, labore sapiente tenetur perferendis nihil sit et molestiae molestias? Reprehenderit ab quam cumque voluptatem accusamus ex sit aliquam autem! Impedit sint eius quo tenetur vel sunt, alias voluptates recusandae ipsa hic culpa ipsam exercitationem similique quam aperiam aspernatur quasi voluptatibus. Sed rerum dolor sint eveniet architecto, sit laborum nisi aut vel delectus praesentium. Pariatur reprehenderit natus, doloremque quo ex alias neque praesentium aut laboriosam molestiae deleniti necessitatibus aperiam quibusdam fuga unde officiis ab sunt nisi facilis? Sapiente ut amet non repudiandae veniam tempore eius quibusdam hic aliquam? Iste nostrum dolorem eveniet quae totam veniam ipsum odio minus, dolor sequi labore nulla, sed harum ad pariatur laudantium sunt repudiandae debitis assumenda natus consectetur quidem! Nemo repellendus sint fugit minus ratione. Consequatur cupiditate rerum soluta illo, veritatis in exercitationem reprehenderit harum.
+            </div>
+
+
+
+
+        </div>
+    )
+}
+
+export default ContactPage
