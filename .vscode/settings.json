@@ -1,3 +1,4 @@
 {
-    "interactiveWindow.restore": true
+    "interactiveWindow.restore": true,
+    "jira-plugin.workingProject": ""
 }

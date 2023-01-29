@@ -30,7 +30,7 @@ function ProductDetailPage() {
                 <div className="row">
                     <div className="col-lg-4"><div className="wrapper1">
                         <h2 className="catd-head">{product.productName}</h2>
-                        <div className="card-image mw-200 mh-400"><img width="100%" src={Constants.IMAGE_URL + product.image}></img>
+                        <div className="card-image mw-200 mh-400"><img width="100%" style={{minHeight:"280px"}} src={Constants.IMAGE_URL + product.image}></img>
                         </div>
                     </div>
                     </div>
